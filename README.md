@@ -44,6 +44,9 @@
 <a href="https://github.com/nop-74/gdat_parser/releases/download/dgdat/2GIS.OFFLINE.rar"><img src="https://github.com/nop-74/Open-Server_6.5.0/blob/main/DW.png" title="скачать" /></a>
 <!-- End of banner code -->
 
+# угостить кофе
+![Alt text](https://github.com/nop-74/ArmDot_Trial_Remover/blob/main/coffe.png)
+
 
 
 
