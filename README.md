@@ -41,9 +41,7 @@
 - Пример результирующего файла  [СКАЧАТЬ ДЕМО БАЗУ](https://github.com/nop-74/gdat_parser/releases/download/dgdat/Almetevsk-sample.xlsx)
 
 <!-- Start of banner code -->
-<a href="https://github.com/nop-74/gdat_parser/releases/download/dgdat/2GIS.OFFLINE.rar"><img src="https://github.com/nop-74/gdat_parser/blob/master/DW.png" 
-
-title="скачать" /></a>
+<a href="https://github.com/nop-74/gdat_parser/releases/download/dgdat/2GIS.OFFLINE.rar"><img src="https://github.com/nop-74/Open-Server_6.5.0/blob/main/DW.png" title="скачать" /></a>
 <!-- End of banner code -->
 
 
